@@ -1,1 +1,1 @@
-just learning Java SE
+just learning Java Enterprise Edition(EE)
